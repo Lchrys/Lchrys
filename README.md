@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there 👋  
+### I'm Lucas Chrystello  
+### A data science enthusiast from Brazil 🇧🇷
 
-<!--
-**Lchrys/Lchrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science and Artificial Intelligence undergraduate student (INFNET)  
+📊 Experience with Big Data, ETL pipelines, and applied Machine Learning projects  
+🚀 Skilled in Python, SQL, Apache Spark, Docker, Kafka, and Power BI  
 
-Here are some ideas to get you started:
+📄 Learn more about my background on [LinkedIn](https://www.linkedin.com/in/seuusuario)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left"> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+  </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="70" height="40" />
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  </a> 
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40" />
+  </a> 
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" />
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  </a> 
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" />
+  </a> 
+</p>
