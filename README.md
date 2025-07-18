@@ -6,7 +6,7 @@
 📊 Experience with Big Data, ETL pipelines, and applied Machine Learning projects  
 🚀 Skilled in Python, SQL, Apache Spark, Docker, Kafka, and Power BI  
 
-📄 Learn more about my background on [LinkedIn](https://www.linkedin.com/in/seuusuario)
+📄 Learn more about my background on [LinkedIn](https://www.linkedin.com/in/lucaschrysp/)
 
 ---
 
