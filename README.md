@@ -1,9 +1,13 @@
 ## Hi there 👋  
 ### I'm Lucas Chrystello  
 ### A data science enthusiast from Brazil 🇧🇷
+---
+### 💼 Intern at [**PROVIDER IT**](https://provider-it.com.br/)
+---
+🎓 Data Science and Artificial Intelligence undergraduate student (INFNET)
 
-🎓 Data Science and Artificial Intelligence undergraduate student (INFNET)  
-📊 Experience with Big Data, ETL pipelines, and applied Machine Learning projects  
+📊 Experience with Big Data, ETL pipelines, and applied Machine Learning projects
+
 🚀 Skilled in Python, SQL, Apache Spark, Docker, Kafka, and Power BI  
 
 📄 Learn more about my background on [LinkedIn](https://www.linkedin.com/in/lucaschrysp/)
@@ -18,6 +22,12 @@
   </a> 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+  </a>
+  <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/neo4j/neo4j.png" alt="Neo4j" width="40" height="40" />
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain.png" alt="LangChain" width="40" height="40" />
   </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="70" height="40" />
