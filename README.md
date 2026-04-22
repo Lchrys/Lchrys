@@ -17,7 +17,6 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lchrys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lchrys&layout=compact&theme=dracula&hide_langs_below=1" alt="Top Languages" height="180em" />
 </p>
 
