@@ -14,14 +14,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/Lchrys?template=classic&base.languages=true&base.languages.sections=most-used&base.languages.indepth=true&theme=dracula" alt="Metrics" width="400" />
-</div>
-
----
-
 ## 🛠️ Languages and Tools
 
 | | | | | | | | | | |
