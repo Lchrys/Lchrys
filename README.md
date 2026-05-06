@@ -17,7 +17,7 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lchrys&layout=compact&theme=dracula&hide_langs_below=1" alt="Top Languages" height="180" />
+  <img src="https://metrics.lecoq.io/Lchrys?template=classic&base.languages=true&base.languages.sections=most-used&base.languages.indepth=true&theme=dracula" alt="Metrics" width="400" />
 </div>
 
 ---
