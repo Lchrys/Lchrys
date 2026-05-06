@@ -16,11 +16,9 @@
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lchrys&layout=compact&theme=dracula&hide_langs_below=1" alt="Top Languages" height="180em" />
-</p>
-
-<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lchrys&layout=compact&theme=dracula&hide_langs_below=1" alt="Top Languages" height="180" />
+</div>
 
 ---
 
